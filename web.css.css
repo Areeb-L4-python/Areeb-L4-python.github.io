@@ -1,0 +1,9 @@
+li {
+    display: inline;
+}
+a {
+display: block;
+padding: 8px;
+background-color: #dddddd;
+}
+nav{background-color: #17072b; padding-top: 10px; padding-bottom: 20px;}
